@@ -1,0 +1,12 @@
+D:\Bhaskar Shelar\february 2018\23 02 2018\FIleReadOption\FIleReadOption\bin\Debug\FIleReadOption.exe.config
+D:\Bhaskar Shelar\february 2018\23 02 2018\FIleReadOption\FIleReadOption\bin\Debug\FIleReadOption.exe
+D:\Bhaskar Shelar\february 2018\23 02 2018\FIleReadOption\FIleReadOption\bin\Debug\FIleReadOption.pdb
+D:\Bhaskar Shelar\february 2018\23 02 2018\FIleReadOption\FIleReadOption\obj\Debug\FIleReadOption.csprojResolveAssemblyReference.cache
+D:\Bhaskar Shelar\february 2018\23 02 2018\FIleReadOption\FIleReadOption\obj\Debug\FIleReadOption.exe
+D:\Bhaskar Shelar\february 2018\23 02 2018\FIleReadOption\FIleReadOption\obj\Debug\FIleReadOption.pdb
+C:\Users\Supriya\Downloads\FIleReadOption\FIleReadOption\FIleReadOption\bin\Debug\FIleReadOption.exe.config
+C:\Users\Supriya\Downloads\FIleReadOption\FIleReadOption\FIleReadOption\obj\Debug\FIleReadOption.exe
+C:\Users\Supriya\Downloads\FIleReadOption\FIleReadOption\FIleReadOption\obj\Debug\FIleReadOption.pdb
+C:\Users\Supriya\Downloads\FIleReadOption\FIleReadOption\FIleReadOption\bin\Debug\FIleReadOption.exe
+C:\Users\Supriya\Downloads\FIleReadOption\FIleReadOption\FIleReadOption\bin\Debug\FIleReadOption.pdb
+C:\Users\Supriya\Downloads\FIleReadOption\FIleReadOption\FIleReadOption\obj\Debug\FIleReadOption.csprojResolveAssemblyReference.cache
